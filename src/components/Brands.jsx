@@ -3,7 +3,7 @@ import Reveal from './Reveal';
 
 const Brands = () => {
   const brands = [
-    "ALLERGAN®", "JUVÉDERM®", "RESTYLANE®", "TEOSYAL®", "ULTHERAPY®", "PROFHILO®", "PicoSure®"
+    "ALLERGAN®", "JUVÉDERM®", "RESTYLANE®", "TEOSYAL®", "ULTHERAPY®", "PROFHILO®", "PicoSurs®"
   ];
 
   return (
