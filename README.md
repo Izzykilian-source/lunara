@@ -85,5 +85,5 @@ Building this project taught me a lot about:
 
 Created by **Izzy**. I'm open to freelance work or full-time opportunities.
 
-* [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-izzy-kilian/))
+* [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-izzy-kilian/))
 * [Email](mohamedizzykilian@gmail.com)
